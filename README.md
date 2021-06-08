@@ -1,6 +1,6 @@
 Hello !  🔆
 
-I'm **Manon**, I'm a french **Ruby on Rails developer and designer**.
+My name is **Manon**, I'm a french **Ruby on Rails developer and designer**.
 
 The tools I'm working with :
 
