@@ -15,5 +15,5 @@ The tools I'm working with :
 
 Here are the last projects I worked on:
 
-- [Repo Vibrary](https://github.com/clementlemoigne/vibrary) : A discreet online bookstore listing erotic texts that can be connected with your own sextoy. => [Vibrary](https://www.vibrary.fr) (PWA)
-- [Repo Game'n Share](https://github.com/DorianGC-G/game-n-share) : An amazon-like marketplace on wich you can rent games & consoles. => [Game'n Share](https://airbnb-doriangc-g.herokuapp.com) (Website)
+- [Vibrary](https://www.vibrary.fr) (PWA) : A discreet online bookstore listing erotic texts that can be connected with your own sextoy. => [Repo](https://github.com/clementlemoigne/vibrary) 
+- [Game'n Share](https://airbnb-doriangc-g.herokuapp.com) (Website) : An amazon-like marketplace on wich you can rent games & consoles. => [Repo](https://github.com/DorianGC-G/game-n-share)
