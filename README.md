@@ -18,4 +18,4 @@ Here are the last projects I worked on:
 
 - [Vibrary](http://www.vibrary.fr) (PWA) : A discreet online bookstore listing erotic texts that can be connected with your own sextoy. => [Repo](https://github.com/clementlemoigne/vibrary) 
 - [Game'n Share](https://airbnb-doriangc-g.herokuapp.com) (Website) : An amazon-like marketplace on wich you can rent games & consoles. => [Repo](https://github.com/DorianGC-G/game-n-share)
-- [My Portfolio](http://manonschnetzler.com) (Website) : My online portfolio. => [Repo](https://github.com/manerschnetzlon/portfolio-manon)
+- [My Portfolio](http://manonschnetzler.com) (Website) : My online portfolio.
