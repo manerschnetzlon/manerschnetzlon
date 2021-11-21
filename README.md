@@ -5,7 +5,7 @@ My name is **Manon**, I'm a french **Ruby on Rails developer and designer**.
 The tools I'm working with :
 
 - Ruby, Ruby on Rails
-- Javascript Vanilla (ES6)
+- Javascript Vanilla / Stimulus
 - HTML5 / CSS / Bootstrap
 - SQL / PostgreSQL
 - Heroku
