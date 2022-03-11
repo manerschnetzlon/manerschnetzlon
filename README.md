@@ -4,11 +4,13 @@ My name is **Manon**, I'm a french **Ruby on Rails developer and designer**.
 
 The tools I'm working with :
 
-- Ruby, Ruby on Rails
+- C, Ruby
+- Ruby on Rails
 - Javascript Vanilla / Stimulus
 - HTML5 / CSS / Bootstrap
 - SQL / PostgreSQL
 - Heroku
+- VSCode, VIM
 
 
 
