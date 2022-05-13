@@ -18,6 +18,7 @@ The tools I'm working with :
 
 Here are the last projects I worked on:
 
+- [42](https://github.com/manerschnetzlon/42-cursus) : Piscine (up to C_09) & Cursus WIP.
 - [My Portfolio](http://manonschnetzler.com) (Website) : My online portfolio.
 - [meteomerde.com](http://meteomerde.com) (Website) : The first weather application with which you can choose the weather! => [Repo](https://github.com/manerschnetzlon/meteomerde)
 - [Stupid Idea Generator](https://stupid-idea-generator.herokuapp.com) (Website) : A stupid idea generator. => [Repo](https://github.com/manerschnetzlon/stupid-idea-generator)
