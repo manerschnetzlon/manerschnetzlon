@@ -18,6 +18,7 @@ The tools I'm working with :
 
 Here are the last projects I worked on:
 
+- [Miltonia](https://miltonia.herokuapp.com) (PWA) : A private chat designed to let your correspondent know that you are thinking of her/him, without writing a conventional text message. => [Repo](https://github.com/manerschnetzlon/miltonia)
 - [42](https://github.com/manerschnetzlon/42-cursus) : Piscine (up to C_09) & Cursus WIP. => [Repo](https://github.com/manerschnetzlon/42-cursus)
 - [My Portfolio](http://manonschnetzler.com) (Website) : My online portfolio.
 - [meteomerde.com](http://meteomerde.com) (Website) : The first weather application with which you can choose the weather! => [Repo](https://github.com/manerschnetzlon/meteomerde)
