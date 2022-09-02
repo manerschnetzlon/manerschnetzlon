@@ -6,13 +6,11 @@ The tools I'm working with :
 
 - C, Ruby
 - Ruby on Rails
-- Javascript Vanilla / Stimulus
+- React / Javascript Vanilla / Stimulus
 - HTML5 / CSS / Bootstrap
 - SQL / PostgreSQL
 - Heroku
 - VSCode, VIM
-
-
 
 **Keen**, **resourceful** and **hardworking**, I love adjectives and working painstakingly on fun projects!
 
