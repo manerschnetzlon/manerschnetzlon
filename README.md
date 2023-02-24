@@ -16,10 +16,10 @@ The tools I'm working with :
 
 Here are the last projects I worked on:
 
-- [Miltonia](https://miltonia.herokuapp.com) (PWA) : A private chat designed to let your correspondent know that you are thinking of her/him, without writing a conventional text message. => [Repo](https://github.com/manerschnetzlon/miltonia)
-- [42](https://github.com/manerschnetzlon/42-cursus) : Piscine (up to C_09) & Cursus WIP. => [Repo](https://github.com/manerschnetzlon/42-cursus)
-- [My Portfolio](http://manonschnetzler.com) (Website) : My online portfolio.
-- [meteomerde.com](http://meteomerde.com) (Website) : The first weather application with which you can choose the weather! => [Repo](https://github.com/manerschnetzlon/meteomerde)
-- [Stupid Idea Generator](https://stupid-idea-generator.herokuapp.com) (Website) : A stupid idea generator. => [Repo](https://github.com/manerschnetzlon/stupid-idea-generator)
-- [Vibrary](http://www.vibrary.fr) (PWA) : A discreet online bookstore listing erotic texts that can be connected with your own sextoy. => [Repo](https://github.com/clementlemoigne/vibrary) 
-- [Game'n Share](https://airbnb-doriangc-g.herokuapp.com) (Website) : An amazing amazon-like marketplace on wich you can rent games & consoles. => [Repo](https://github.com/DorianGC-G/game-n-share)
+- _Miltonia (PWA)_ : A private chat designed to let your correspondent know that you are thinking of her/him, without writing a conventional text message. => [Repo](https://github.com/manerschnetzlon/miltonia)
+- _[42](https://github.com/manerschnetzlon/42-cursus)_ : Piscine (up to C_09) & Cursus WIP. => [Repo](https://github.com/manerschnetzlon/42-cursus)
+- _[My Portfolio](http://manonschnetzler.com) (Website)_ : My online portfolio.
+- _meteomerde.com (Website)_ : The first weather application with which you can choose the weather! => [Repo](https://github.com/manerschnetzlon/meteomerde)
+- _Stupid Idea Generator (Website)_ : A stupid idea generator. => [Repo](https://github.com/manerschnetzlon/stupid-idea-generator)
+- _Vibrary (PWA)_ : A discreet online bookstore listing erotic texts that can be connected with your own sextoy. => [Repo](https://github.com/clementlemoigne/vibrary) 
+- _Game'n Share (Website)_ : An amazing amazon-like marketplace on wich you can rent games & consoles. => [Repo](https://github.com/DorianGC-G/game-n-share)
