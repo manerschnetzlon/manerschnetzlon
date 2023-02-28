@@ -17,8 +17,8 @@ The tools I'm working with :
 Here are the last projects I worked on:
 
 - _Miltonia (PWA)_ : A private chat designed to let your correspondent know that you are thinking of her/him, without writing a conventional text message. => [Repo](https://github.com/manerschnetzlon/miltonia)
-- _[42](https://github.com/manerschnetzlon/42-cursus)_ : Piscine (up to C_09) & Cursus WIP. => [Repo](https://github.com/manerschnetzlon/42-cursus)
-- _[My Portfolio](http://manonschnetzler.com) (Website)_ : My online portfolio.
+- _42_ : Piscine (up to C_09) & Cursus WIP. => [Repo](https://github.com/manerschnetzlon/42-cursus)
+- _[My Portfolio (Website) : My online portfolio](http://manonschnetzler.com)._
 - _meteomerde.com (Website)_ : The first weather application with which you can choose the weather! => [Repo](https://github.com/manerschnetzlon/meteomerde)
 - _Stupid Idea Generator (Website)_ : A stupid idea generator. => [Repo](https://github.com/manerschnetzlon/stupid-idea-generator)
 - _Vibrary (PWA)_ : A discreet online bookstore listing erotic texts that can be connected with your own sextoy. => [Repo](https://github.com/clementlemoigne/vibrary) 
