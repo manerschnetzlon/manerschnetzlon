@@ -16,10 +16,10 @@ The tools I'm working with :
 
 Here are the last projects I worked on:
 
-- _Miltonia (PWA)_ : A private chat designed to let your correspondent know that you are thinking of her/him, without writing a conventional text message. => [Repo](https://github.com/manerschnetzlon/miltonia)
-- _42_ : Piscine (up to C_09) & Cursus WIP. => [Repo](https://github.com/manerschnetzlon/42-cursus)
-- _[My Portfolio (Website) : My online portfolio](http://manonschnetzler.com)._
-- _meteomerde.com (Website)_ : The first weather application with which you can choose the weather! => [Repo](https://github.com/manerschnetzlon/meteomerde)
-- _Stupid Idea Generator (Website)_ : A stupid idea generator. => [Repo](https://github.com/manerschnetzlon/stupid-idea-generator)
-- _Vibrary (PWA)_ : A discreet online bookstore listing erotic texts that can be connected with your own sextoy. => [Repo](https://github.com/clementlemoigne/vibrary) 
-- _Game'n Share (Website)_ : An amazing amazon-like marketplace on wich you can rent games & consoles. => [Repo](https://github.com/DorianGC-G/game-n-share)
+- **Miltonia** _(PWA)_ : A private chat designed to let your correspondent know that you are thinking of her/him, without writing a conventional text message. => [Repo](https://github.com/manerschnetzlon/miltonia)
+- **42** : Piscine (up to C_09) & Cursus WIP. => [Repo](https://github.com/manerschnetzlon/42-cursus)
+- **My Portfolio** _(Website)_ : [My online portfolio](http://manonschnetzler.com).
+- **meteomerde.com** _(Website)_ : The first weather application with which you can choose the weather! => [Repo](https://github.com/manerschnetzlon/meteomerde)
+- **Stupid Idea Generator** _(Website)_ : A stupid idea generator. => [Repo](https://github.com/manerschnetzlon/stupid-idea-generator)
+- **Vibrary** _(PWA)_ : A discreet online bookstore listing erotic texts that can be connected with your own sextoy. => [Repo](https://github.com/clementlemoigne/vibrary) 
+- **Game'n Share** _(Website)_ : An amazing amazon-like marketplace on wich you can rent games & consoles. => [Repo](https://github.com/DorianGC-G/game-n-share)
